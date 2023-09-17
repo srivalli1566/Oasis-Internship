@@ -4,7 +4,9 @@ Oasis Infobyte Internship:-
 
 Task 1:
   Email spam detection with Machine learning
+  
 Task 2:
   Sales Prediction using python
+  
 Task 3:
   Unemployment analysis with python
